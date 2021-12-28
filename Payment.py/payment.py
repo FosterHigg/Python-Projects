@@ -1,4 +1,5 @@
-#Foster Higginbotham
+#Foster Higginbotham's File
+#This project will demonstrate the abilitiy to use functions to calculate the gross earnings for an employee over several weeks.
 
 #main
 def main():
