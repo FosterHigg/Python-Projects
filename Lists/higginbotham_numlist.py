@@ -1,5 +1,5 @@
 # Foster Higginbotham's File.
-# In this assignment, I will demonstrate the ability to write and apply python code that will allow the user to add numbers to a list, 
+# This project will demonstrate the ability to write and apply python code that will allow the user to add numbers to a list, 
 # remove numbers from a list and print the numbers in a list.
 
 # create an empty list
