@@ -1,7 +1,4 @@
-# Foster Higginbotham
-# COP 2500C
-# payment.py - Payment for several weeks
-# 07/26/2021
+#Foster Higginbotham
 
 #main
 def main():
