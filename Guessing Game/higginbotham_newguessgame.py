@@ -1,5 +1,5 @@
-#Foster Higginbotham's File.
-#In this assignment, I will demonstrate the ability to write and apply python code that can play a random guessing game.
+# Foster Higginbotham's File.
+# This assignment will demonstrate the ability to write and apply python code that can play a random guessing game.
 
 #import our random function for our random number
 import random
