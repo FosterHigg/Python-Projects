@@ -1,18 +1,5 @@
-# Foster Higginbotham
-# COP 2500C
-# In the regular guessing game, a secret number in between 1 and 100 is chosen, and then
-# the player proceeds to make guesses. After each guess,
-# the player is told whether her guess
-# is too high or too low. In some games with guesses,
-# it's bad to make a guess that's too high,
-# but okay to make a guess that is too low.
-# In this game, the goal of the game is for the user
-# to guess the correct number in as few guesses as possible,
-# but if they make four guesses that are too high, they lose the game.
-# (It's worse to lose the game than win the game in 100
-# guesses.)
-# Write a computer program that allows the user to play this game.
-# 07/26/2021
+#Foster Higginbotham's File.
+#In this assignment, I will demonstrate the ability to write and apply python code that can play a random guessing game.
 
 #import our random function for our random number
 import random
